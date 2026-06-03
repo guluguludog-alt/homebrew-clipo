@@ -7,7 +7,7 @@ cask "clipo" do
   desc "剪贴板管理工具"
   homepage "https://github.com/guluguludog-alt/Clipo"
 
-  depends_on macos: ">= :sequoia"
+  depends_on macos: "26.0"
 
   app "Clipo.app"
 
