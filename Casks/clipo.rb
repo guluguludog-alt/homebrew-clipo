@@ -1,8 +1,8 @@
 cask "clipo" do
   version "1.1.5"
-  sha256 "9c193f809e4f42fe3f0fa57591b767bd362e3ae2df9bdd4ccabb6ce88988426d"
+  sha256 "ab6b226355c52f775ca3b01d2faf7b97ebeeeac283308e3cddf67eb32a3d9215"
 
-  url "https://github.com/guluguludog-alt/clipo-release/releases/download/v#{version}/Clipo_Setup.dmg"
+  url "https://github.com/guluguludog-alt/clipo-release/releases/download/v#{version}/Clipo_Homebrew.dmg"
   name "Clipo"
   desc "剪贴板管理工具"
   homepage "https://github.com/guluguludog-alt/Clipo"
