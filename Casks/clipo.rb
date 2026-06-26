@@ -1,6 +1,6 @@
 cask "clipo" do
-  version "1.2.2"
-  sha256 "0506d38c5841aed2d4720d3f63298047d28689310825f7f69c4ab3ef810a3611"
+  version "1.2.3"
+  sha256 "cb7df7dc1447601ff6238be00566c4a66a875e2c7b73718200f38727451d246c"
 
   url "https://github.com/guluguludog-alt/clipo/releases/download/v#{version}/Clipo_Homebrew.dmg"
   name "Clipo"
